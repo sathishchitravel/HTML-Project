@@ -1,0 +1,56 @@
+header {
+    height: 119px;
+    padding-left: 30px;
+    padding-top: 17px;
+    }
+main {
+    height: 540px;
+}
+h1 {
+    font-size: 53px;
+    color: #8f1227;
+    font-family: "Ranchers", sans-serif;
+    }
+h2 {
+    font-size: 37px;
+    color: #252831;
+    font-family: "BBH Sans Hegarty", sans-serif;
+}
+h3 {
+    font-size: 26px;
+    margin-left: 2px;
+    margin-top: 1px;
+    font-family: "Inconsolata", monospace;
+    }
+p {
+    font-size: 39px;
+    margin-top: 7px;
+    color: #035770;
+    margin-left: 1px;
+    font-family: "Alumni Sans Pinstripe", sans-serif;
+}
+div {
+    width: 20%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 42px;
+}
+img {
+    width: 510px;
+    height: 510px;
+    float: left;
+    margin-left: 47px;
+}
+ul {
+    list-style: disc;
+    font-size: 24px;
+    margin-top: 16px;
+    line-height: 2;
+    font-family: "Lexend", sans-serif;
+}
+footer {
+    vertical-align: bottom;
+    text-align: center;
+    color: grey;
+    font-family: "Lexend", sans-serif;
+}
